@@ -2,6 +2,10 @@
 <img width="1200" height="475" alt="G-Nex.Coding" src="https://imagens-pagina-web.s3.sa-east-1.amazonaws.com/g-nex.png" />
 </div>
 
+https://g-nex-coding.com.br
+
+Web development agency specialized in institutional websites, modern web systems, and custom digital solutions focus on performance, SEO, and scalable digital experiences.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
